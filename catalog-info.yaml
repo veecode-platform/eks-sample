@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "eks-sample"
+  annotations:
+    github.com/project-slug: veecode-platform/eks-sample
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: devops
+  lifecycle: experimental
+  owner: "group:default/admin"
