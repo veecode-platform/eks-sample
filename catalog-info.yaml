@@ -6,6 +6,6 @@ metadata:
     github.com/project-slug: veecode-platform/eks-sample
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: devops
+  type: service
   lifecycle: experimental
   owner: "group:default/admin"
