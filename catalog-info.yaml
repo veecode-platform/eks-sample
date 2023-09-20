@@ -5,7 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: veecode-platform/eks-sample
     backstage.io/techdocs-ref: dir:.
-    github.com/workflows: infracost.yml
+    github.com/workflows: infracost.yml,   terraform-deploy.yaml,  terraform-destroy.yaml
 spec:
   type: service
   lifecycle: experimental
