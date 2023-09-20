@@ -5,6 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: veecode-platform/eks-sample
     backstage.io/techdocs-ref: dir:.
+    github.com/workflows: infracost.yml
 spec:
   type: service
   lifecycle: experimental
