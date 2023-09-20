@@ -4,7 +4,7 @@ metadata:
   name: "eks-sample"
   annotations:
     github.com/project-slug: veecode-platform/eks-sample
-    github.com/workflows: infracost.yml,terraform-deploy.yaml,terraform-destroy.yaml
+    github.com/workflows: infracost.yml,  terraform-deploy.yaml, terraform-destroy.yaml
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
