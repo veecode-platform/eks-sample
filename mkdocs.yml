@@ -1,5 +1,5 @@
-site_name: 
-site_description: 
+site_name: "eks-sample"
+site_description: "eks-sample"
 
 nav:
   - Introduction: index.md
